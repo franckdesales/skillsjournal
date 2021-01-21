@@ -1,5 +1,4 @@
-My main skills are:
--system administration
--cloud computing
--devops
--and more
+### My main skills are:
+	- system administration: linux
+	- cloud platfoms: GCP
+	- containers: docker, kubernetes
